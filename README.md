@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sarthik 👋
+MERN Stack Developer
 
-<!--
-**Sarthik2004/sarthik2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Connect With Me
+- Linkedin: www.linkedin.com/in/sarthikk
+- GitHub: https://github.com/sarthik2004
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building full-stack MERN projects
+- Improving backend architecture
+- Learning advanced React patterns
+
+⭐ Always learning, always building.
