@@ -15,6 +15,7 @@ MERN Stack Developer
 
 ## Connect With Me
 - Linkedin: www.linkedin.com/in/sarthikk
+- Gmail: sarthikk2004@gmail.com
 - GitHub: https://github.com/sarthik2004
 
 ## Current Focus
