@@ -23,4 +23,4 @@ MERN Stack Developer
 - Improving backend architecture
 - Learning advanced React patterns
 
-⭐ Always learning, always building.
+⭐ Always learning, always building..
